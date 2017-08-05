@@ -1,0 +1,7 @@
+a column single sex female male
+b column single married yes no
+c column single weight <30 >30and<50 >50and<60 >60and<70 >70and<80 >80
+d column single education highschool graduate postgraduate phd none
+e column single complexion fair semi-fair white
+f column single diseases yes no notsure
+
